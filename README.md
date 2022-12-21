@@ -5,7 +5,7 @@ Simple currency converter, allows users to choose from a list of currencies and 
 
 ## Screenshot
 
-https://user-images.githubusercontent.com/119692027/208942999-6b5121cc-fe86-450b-be72-d93c3cdae148.png
+<img src="screenshots/ConverterScreenshot.png">
 
 ## Installation
 - Clone or download the repo
